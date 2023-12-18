@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkng_website=self.webpackChunkng_website||[]).push([[7763],{6956:e=>{e.exports=JSON.parse('{"permalink":"/ng-website/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

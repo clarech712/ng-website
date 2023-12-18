@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkng_website=self.webpackChunkng_website||[]).push([[4734],{9845:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/ng-website/blog/tags/hola","allTagsPath":"/ng-website/blog/tags","count":1,"unlisted":false}')}}]);
