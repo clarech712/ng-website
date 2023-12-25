@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkng_website=self.webpackChunkng_website||[]).push([[9810],{2144:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/ng-website/blog/tags/docusaurus","allTagsPath":"/ng-website/blog/tags","count":4,"unlisted":false}')}}]);

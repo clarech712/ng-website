@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkng_website=self.webpackChunkng_website||[]).push([[5374],{7690:e=>{e.exports=JSON.parse('{"permalink":"/ng-website/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
